@@ -1,0 +1,51 @@
+Station_ID,Station_Name,Line,Latitude,Longitude
+1,Baiyappanahalli,Purple Line,12.9955,77.6412
+2,Swami Vivekananda Road,Purple Line,12.9852,77.6348
+3,Indiranagar,Purple Line,12.9784,77.6383
+4,Halasuru,Purple Line,12.9716,77.631
+5,Trinity,Purple Line,12.9699,77.6227
+6,MG Road,Purple Line,12.9753,77.6194
+7,Cubbon Park,Purple Line,12.9765,77.5893
+8,Dr. BR Ambedkar Station,Purple Line,12.9785,77.5857
+9,Vidhana Soudha,Purple Line,12.9813,77.5873
+10,Sir M. Visvesvaraya Station,Purple Line,12.9846,77.5847
+11,Majestic,Purple Line,12.9766,77.5713
+12,City Railway Station,Purple Line,12.9783,77.5696
+13,Magadi Road,Purple Line,12.9768,77.5539
+14,Hosahalli,Purple Line,12.9752,77.5451
+15,Vijayanagar,Purple Line,12.9596,77.5387
+16,Attiguppe,Purple Line,12.9492,77.5338
+17,Deepanjali Nagar,Purple Line,12.9428,77.5294
+18,Mysore Road,Purple Line,12.9371,77.5229
+19,Nayandahalli,Green Line,12.9384,77.5291
+20,Rajarajeshwari Nagar,Green Line,12.9257,77.5196
+21,Jnanabharathi,Green Line,12.9174,77.5103
+22,Pattanagere,Green Line,12.9148,77.5007
+23,Kengeri,Green Line,12.9076,77.4826
+24,Nagasandra,Green Line,13.0844,77.5037
+25,Dasarahalli,Green Line,13.0726,77.5121
+26,Jalahalli,Green Line,13.0607,77.5246
+27,Peenya Industry,Green Line,13.0393,77.5296
+28,Peenya,Green Line,13.0328,77.5352
+29,Goraguntepalya,Green Line,13.025,77.5403
+30,Yeshwanthpur,Green Line,13.0179,77.5459
+31,Sandal Soap Factory,Green Line,13.0091,77.5544
+32,Mahalakshmi,Green Line,13.0012,77.5636
+33,Rajajinagar,Green Line,12.9909,77.5705
+34,Kuvempu Road,Green Line,12.9859,77.571
+35,Srirampura,Green Line,12.9841,77.5736
+36,Sampige Road,Green Line,12.9815,77.572
+37,Chickpete,Green Line,12.9708,77.5743
+38,Krishna Rajendra Market,Green Line,12.9615,77.5771
+39,National College,Green Line,12.9567,77.5762
+40,Lalbagh,Green Line,12.9501,77.5853
+41,South End Circle,Green Line,12.9428,77.5878
+42,Jayanagar,Green Line,12.9346,77.5908
+43,Rashtriya Vidyalaya Road,Green Line,12.9259,77.5837
+44,Banashankari,Green Line,12.9168,77.5763
+45,Jayaprakash Nagar,Green Line,12.9074,77.5704
+46,Yelachenahalli,Green Line,12.8999,77.5663
+47,Konanakunte Cross,Green Line,12.8912,77.5602
+48,Doddakallasandra,Green Line,12.8823,77.5541
+49,Vajarahalli,Green Line,12.8734,77.5474
+50,Thalaghattapura,Green Line,12.8645,77.5412
